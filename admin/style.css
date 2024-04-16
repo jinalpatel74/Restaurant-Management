@@ -1,0 +1,40 @@
+.bg{
+	background-color: rgb(184, 224, 235); 
+}
+
+.title{
+	color: black;
+	font-family: cambria;
+	font-size: 1.6em;
+	font-weight: bold;
+
+}
+
+.text{
+	padding: 12px;
+	background-color: rgb(255, 255, 255);
+	color: black;
+	width: 90%;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.tr{
+	color: rgb(255, 224, 71);
+}
+
+.btn{
+	color: black;
+	background-color: rgba(104, 107, 130, 0);
+	border:0px;
+	box-shadow: 1px 3px 5px 2px;
+	width: 50%;
+	height: 35px;
+	font-size: 1.3em;
+}
+
+.ar{
+	padding: 12px;
+	background-color: black;
+	color: white;
+}

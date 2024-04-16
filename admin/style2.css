@@ -1,0 +1,54 @@
+body{
+	background-color: rgb(255, 255, 255);
+	margin: 0px;
+}
+
+.mbg{
+	background-color: rgb(175, 241, 241);
+	padding: 25px;
+}
+
+.menu{
+	color: white;
+	background-color: black;
+	font-family: Century Gothic;
+	font-size:2.1em;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.menu:hover{
+	color: rgb(0, 0, 0);
+	background-color: rgb(245, 243, 158);
+	box-shadow: 1px 1px 10px 1px rgb(28, 28, 230);
+}
+
+.content{
+	background-color: white;
+	font-size:21px;
+	width: 75%;
+	margin: 0 auto;
+	padding: 40px;
+}
+
+.footer{
+	color: orange;
+	background-color: black;
+	font-family: Calibri;
+	padding: 23px;
+
+}
+
+.del{
+	color: red;
+}
+
+tr{
+	color: black
+
+}
+
+th{
+	color: blue;
+	font-size: 1.2em;
+}
